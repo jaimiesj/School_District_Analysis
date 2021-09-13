@@ -29,7 +29,7 @@ Due to incorrectly attempting to make a copy of the original analysis, I am unab
 
 Four changes that were observed by replacing the 9th grade values from Thomas High School with NaNs were district percent passing math scores, district percent passing reading scores and overall district passing scores. In addition, Thomas High School rank rose to the top 5, where it was not previously. 
 
-Additional resouces, including the codes used, can be found in
+Additional resouces, including the codes used, can be found in https://github.com/jaimiesj/School_District_Analysis/commit/334ede23e800005afdd39ade8d76afba674133da
 
 
 
